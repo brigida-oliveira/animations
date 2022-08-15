@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ocfb0/Documents/Repositorios_do_NNT/Animations/app/src/main/res/drawable/ic_arrow.xml" value="0.2375" />
+        <entry key="..\:/Users/ocfb0/Documents/Repositorios_do_NNT/Animations/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2375" />
+        <entry key="..\:/Users/ocfb0/Documents/Repositorios_do_NNT/Animations/app/src/main/res/layout/activity_animations_menu.xml" value="0.264" />
+        <entry key="..\:/Users/ocfb0/Documents/Repositorios_do_NNT/Animations/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/ocfb0/Documents/Repositorios_do_NNT/Animations/app/src/main/res/layout/activity_other.xml" value="0.264" />
+        <entry key="..\:/Users/ocfb0/Documents/Repositorios_do_NNT/Animations/app/src/main/res/layout/activity_rotations_and_fade.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/ocfb0/Documents/Repositorios_do_NNT/Animations/app/src/main/res/layout/activity_transitions_menu.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/ocfb0/Documents/Repositorios_do_NNT/Animations/app/src/main/res/layout/activity_translations_and_scale.xml" value="0.20742753623188406" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
